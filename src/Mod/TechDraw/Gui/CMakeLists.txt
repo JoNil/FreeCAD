@@ -345,6 +345,8 @@ SET(TechDrawGuiNav_SRCS
     QGVNavStyleOCC.h
     QGVNavStyleOpenSCAD.cpp
     QGVNavStyleOpenSCAD.h
+    QGVNavStyleFusion.cpp
+    QGVNavStyleFusion.h
     QGVNavStyleRevit.cpp
     QGVNavStyleRevit.h
     QGVNavStyleSolidWorks.cpp
